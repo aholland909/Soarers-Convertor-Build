@@ -1,5 +1,6 @@
 # Soarer's Convertor-Build
 Build log of an external Soarer's Convertor 
+![case](./images/case.jpg)
 
 The plan here is to use panel mount connectors for the input and output and connect them to an Arduino Pro Micro. 
 
